@@ -7,6 +7,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import rootReducer from './reducers';
 import registerServiceWorker from './registerServiceWorker';
 import './index.css';
+
 // Components
 import Appointment from './components/AppointmentModule/Appointment';
 import NavBar from './components/NavBar';
