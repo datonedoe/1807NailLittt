@@ -1,5 +1,5 @@
 import {
-  STDINOUT_IN, STDINOUT_OUT, STDINOUT_CLEAR, STDINOUT_BACKSPACE,
+  STDINOUT_IN, STDINOUT_CLEAR, STDINOUT_BACKSPACE,
 } from '../types';
 
 export const addToStdInOut = input => ({
